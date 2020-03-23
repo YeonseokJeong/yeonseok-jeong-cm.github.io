@@ -2,10 +2,10 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "SAS"
-    url: /categories/SAS/
-  - title: "Unix"
-    url: /categories/Unix/
+  #- title: "SAS"
+  #  url: /categories/SAS/
+  #- title: "Unix"
+  #  url: /categories/Unix/
     ###
   - title: "Categories"
     url: /categories/
